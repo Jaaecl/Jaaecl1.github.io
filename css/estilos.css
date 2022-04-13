@@ -568,6 +568,7 @@ body{
 }
 
 .subtitle__video{
+	color: var(--color-primary);
 	text-align: center;
 	padding-top: 50px;
 	font-size: 2rem;
@@ -578,7 +579,7 @@ body{
 .video{
 	width: 60%;
 	padding-top: 30px;
-	margin-left: 260px;
+	margin-left: 110px;
 }
 
 .container-video{
@@ -591,7 +592,7 @@ body{
 .container-video iframe{
 	position: absolute;
 	top: 50px;
-	left: 230px;
+	left: 110px;
 	width: 65%;
 	height: 65%;
 }
